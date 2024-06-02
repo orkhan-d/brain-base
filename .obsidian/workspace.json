@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9038a0b41b3f24bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0c824e1fc9e87e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb57f399f3dd6dc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "026b5e7a73075d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f155caef1e8669d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626df1027a3c7416",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e0b543c741c3e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e7a64b83ad8859c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "839eeaf177ec71ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "78374e8a8310ea31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9838ad2e354899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6a60ab11d10168d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc2ed0dc3b6b800f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d48f26539b67cf67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb57f399f3dd6dc3",
+  "lastOpenFiles": [
+    "Asyncio и конкурентное программирование на Python/Asyncio и конкурентное программирование на Python.md",
+    "categories/Books.md",
+    "2024-06-02.md",
+    "categories",
+    "Asyncio и конкурентное программирование на Python/Глава 1. Первое знакомство с asyncio.md",
+    "files/Screenshot 2024-01-22 at 22.01.13.png",
+    "files",
+    "ашдуы",
+    "Asyncio и конкурентное программирование на Python/Глава 11. Синхронизация.md",
+    "temp.md",
+    "Asyncio и конкурентное программирование на Python/Глава 12. Асинхронные очереди.md",
+    "Asyncio и конкурентное программирование на Python/Глава 10. Микросервисы.md",
+    "Asyncio и конкурентное программирование на Python/Глава 9. Веб-приложения.md",
+    "Asyncio и конкурентное программирование на Python/Глава 8. Потоки данных.md",
+    "Asyncio и конкурентное программирование на Python/Глава 7. Решение проблем блокирования с помощью потоков.md",
+    "Asyncio и конкурентное программирование на Python/Глава 6. Счетные задачи.md",
+    "Asyncio и конкурентное программирование на Python/Глава 5. Неблокирующие драйверы баз данных.md",
+    "Asyncio и конкурентное программирование на Python/Глава 4. Конкурентные веб-запросы.md",
+    "Asyncio и конкурентное программирование на Python/Глава 3. Первое приложение asyncio.md",
+    "Asyncio и конкурентное программирование на Python/Глава 2. Основы asyncio.md",
+    "Untitled.canvas",
+    "asyncio-book/Cheatsheet.md",
+    "Doc-Done.md",
+    "Selenium on Server.md",
+    "Asyncio и конкурентное программирование на Python",
+    "Курс работы на дому по-новому/Налоги.md",
+    "Курс работы на дому по-новому/Трудоустройство за рубежом.md",
+    "Курс работы на дому по-новому"
+  ]
+}
