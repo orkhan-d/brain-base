@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0c824e1fc9e87e",
+        "id": "dd161c6b47523870",
         "type": "tabs",
         "children": [
           {
-            "id": "fb57f399f3dd6dc3",
+            "id": "f5f53343d1d3b162",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -139,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb57f399f3dd6dc3",
+  "active": "f5f53343d1d3b162",
   "lastOpenFiles": [
+    "README.md",
+    "obsidian.md",
+    "README.md",
     "Asyncio и конкурентное программирование на Python/Asyncio и конкурентное программирование на Python.md",
     "categories/Books.md",
     "2024-06-02.md",
